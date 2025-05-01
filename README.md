@@ -11,10 +11,10 @@
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/your-username/product-app.git
-Navigate to the project directory:
+git clone https://github.com/srishti-p18/ProductAppVendout.git
 
-cd product-app
+Navigate to the project directory:
+cd ProductAppVendout
 
 Install dependencies:
 
@@ -26,7 +26,5 @@ npx expo start
 
 Dependencies
 React Navigation
-
 React Native Context API
-
 Expo (for ease of development)
